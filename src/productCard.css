@@ -1,0 +1,16 @@
+.cartas {
+  display: inline-flex;
+  flex-direction: row; 
+  flex-wrap: wrap; 
+  margin: 15px;
+}
+
+.carta{
+  border: 2px solid gray;
+  border-radius: 5px;
+  margin: 15px;
+} 
+
+h1{
+  font-size: 20px;
+}
